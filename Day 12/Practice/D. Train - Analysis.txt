@@ -1,0 +1,30 @@
+n = 9 , a = 2 , b = 2 , c = 2
+13 : i = 0, problems = 0
+15 : false
+17 : false
+19 : false
+21 : i = 1
+13 : i = 1, problems = 0
+15 : false
+17 : false
+19 : false
+13 : i = 2, problems = 0
+15 : true , problems = 1
+17 : true , problems = 2
+19 : true , problems = 3
+13 : i = 3, problems = 3
+15 : false
+17 : false
+19 : false
+13 : i = 4, problems = 0
+15 : true , problems = 4
+17 : true , problems = 5
+19 : true , problems = 6
+13 : i = 5, problems = 6
+15 : false
+17 : false
+19 : false
+13 : i = 6, problems = 6
+15 : true , problems = 7
+17 : true , problems = 8
+19 : true , problems = 9
